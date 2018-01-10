@@ -31,7 +31,7 @@ PRODUCT_PACKAGES += \
     charger
 
 PRODUCT_COPY_FILES += \
-    device/samsung/lt02ltetmo/kernel:kernel
+    device/samsung/sct21/kernel:kernel
 
 PRODUCT_NAME := omni_sct21
 PRODUCT_DEVICE := sct21
